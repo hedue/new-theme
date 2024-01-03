@@ -1,0 +1,13 @@
+	{
+    "version": 1,
+    "themes": {
+        "sky": {
+            "name": "Sky",
+            "repo": "https://github.com/hedue/new-theme/tree/master",
+            "zip": "https://github.com/hedue/new-theme/archive/master.zip",
+            "summary": "Own WonderCMS theme (2023). Theme works without Bootstrap and jQuery.",
+            "version": "3.2.4",
+            "image": "https://raw.githubusercontent.com/hedue/new-theme/master/preview.jpg"
+        }
+    }
+}
